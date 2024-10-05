@@ -60,8 +60,10 @@ Set up AWS S3 credentials to handle image uploads.
 ```bash
     AWS_ACCESS_KEY_ID=your_aws_access_key
     AWS_SECRET_ACCESS_KEY=your_aws_secret_key
-    AWS_DEFAULT_REGION=us-east-1
+    AWS_DEFAULT_REGION=ap-south-1
     AWS_BUCKET=your_s3_bucket_name
+    AWS_URL=your_s3_bucket_url
+    AWS_USE_PATH_STYLE_ENDPOINT=false
 ```
 
 ### Step 7: Third-Party Weather API Configuration:
