@@ -15,7 +15,7 @@ Here’s the step-by-step setup instruction for the Laravel mini-application, in
 Start by cloning the GitHub repository:
 
 ```bash
-    git clone https://github.com/your-username/your-laravel-mini-app.git
+    git clone https://github.com/naimishosalaniya318/laravel-mini-app.git
     cd your-laravel-mini-app
 ```
 
