@@ -10,6 +10,10 @@ Here’s the step-by-step setup instruction for the Laravel mini-application, in
 
     By following these steps, you should be able to setup this project.
 
+# Project Setup Instructions
+
+    Required PHP version is PHP "^8.1"
+    
 ### Step 1: Clone the Repository:
 
 Start by cloning the GitHub repository:
