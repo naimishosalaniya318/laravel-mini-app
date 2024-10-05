@@ -16,7 +16,7 @@ Start by cloning the GitHub repository:
 
 ```bash
     git clone https://github.com/naimishosalaniya318/laravel-mini-app.git
-    cd your-laravel-mini-app
+    cd laravel-mini-app
 ```
 
 ### Step 2: Install dependencies:
